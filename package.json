@@ -1,0 +1,24 @@
+{
+  "name": "startupvan",
+  "version": "1.0.0",
+  "description": "Projeto Unip",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "datatables.net": "^1.10.19",
+    "datatables.net-dt": "^1.10.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://geosouza@bitbucket.org/geosouza/startupvan.git"
+  },
+  "author": "Geovani",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/geosouza/startupvan#readme"
+}
